@@ -33,7 +33,7 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/EncryptionTool.git
+   git clone https://github.com/DeeshaP26/EncryptionTool.git
    cd EncryptionTool
 2. **Create bin directory**:
    ```sh
