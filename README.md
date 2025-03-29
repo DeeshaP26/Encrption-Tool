@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/DeeshaP26/Encryption-Tool.git
-   cd EncryptionTool
+   cd Encryption-Tool
 2. **Create bin directory**:
    ```sh
    mkdir bin
@@ -43,7 +43,7 @@ Ensure you have the following installed:
    javac -d bin src/*.java
 4. **Run the Encryption Tool**:
    ```sh
-   java -cp bin EncryptionTool
+   java -cp bin src.EncryptionTool
 
 ## Contributing
 Feel free to submit issues or contribute by creating pull requests. Any improvements or additional encryption methods are welcome!
